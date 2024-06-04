@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 
 REM Yêu cầu người dùng nhập mức độ tốc độ mong muốn
-set /p speed=Vui long nhap muc do CPU mong muoi (từ 1 đến 100): 
+set /p speed=Lien he ho tro:036 6262 072 - Vui long nhap muc do CPU mong muon (tu 1 den 100): 
 
 REM Kiểm tra xem mức độ tốc độ nhập vào có hợp lệ không
 if %speed% LEQ 0 (
